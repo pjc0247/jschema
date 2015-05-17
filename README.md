@@ -45,6 +45,6 @@ end
 * 사용되는 json은 static한데 파서/제너레이터는 generic함
   * validation의 문제
   * 사용의 편의성<br>
-      ```ruby
+      ```
       person["name"] -> person.name 
       ```
