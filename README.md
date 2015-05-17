@@ -48,3 +48,4 @@ end
       ```
       person["name"] -> person.name 
       ```
+* JSON.parse의 결과는 Hash지만 Schema.load의 반환값은 빌드된 클래스 오브젝트의 인스턴스임
